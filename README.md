@@ -10,4 +10,7 @@ Swift course assignment.
 
 ### Result
 
+![](./assets/screenshot.png)  
+
+
 ![](./assets/result.gif)
